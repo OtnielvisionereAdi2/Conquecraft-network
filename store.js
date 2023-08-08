@@ -23,31 +23,31 @@ let products = [
     {
         id: 2,
         name: 'artemis',
-        image: 'artemis.png',
+        image: 'artemis.PNG',
         price: 100000
     },
     {
         id: 3,
         name: 'poseidon',
-        image: 'poseidon.png',
+        image: 'poseidon.PNG',
         price: 150000
     },
     {
         id: 4,
         name: 'apollo',
-        image: 'apollo.png',
+        image: 'apollo.PNG',
         price: 200000
     },
     {
         id: 5,
         name: 'GOD',
-        image: 'god.png',
+        image: 'God.png',
         price: 300000
     },
     {
         id: 6,
         name: 'Zeus',
-        image: 'zeus.png',
+        image: 'zeus.PNG',
         price: 100000
     }
 ];
